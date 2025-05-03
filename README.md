@@ -1,15 +1,4 @@
-# My Awesome Project
+# RaftKV
 
-This is an open-source project that solves XYZ problem. It provides an easy-to-use solution for businesses looking to improve their ABC processes.
+更新中
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
