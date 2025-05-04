@@ -1,4 +1,4 @@
-# raft-kv-store
+# RaftKV
 
 **基于 MIT 6.824 Lab 框架、Raft 共识算法实现的高性能分布式 KV 存储系统**
 
